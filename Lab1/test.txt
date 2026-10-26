@@ -1,0 +1,19 @@
+Students: 5
+
+All students:
+Student{id=100, age=18, name='John'}
+Student{id=101, age=18, name='Jane'}
+Student{id=102, age=20, name='Larry'}
+Student{id=103, age=20, name='Karen'}
+Student{id=104, age=21, name='Karl'}
+Student{id=100, age=18, name='John'}
+Student{id=101, age=18, name='Jane'}
+
+Students after adding new students:
+Student{id=100, age=18, name='John'}
+Student{id=101, age=18, name='Jane'}
+Student{id=102, age=20, name='Larry'}
+Student{id=103, age=20, name='Karen'}
+Student{id=104, age=21, name='Karl'}
+Student{id=200, age=22, name='Rolf'}
+Student{id=201, age=23, name='Dan'}
